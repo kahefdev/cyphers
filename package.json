@@ -1,0 +1,22 @@
+{
+  "name": "cypher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ceaserCypher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kahefdev/cyphers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kahefdev/cyphers/issues"
+  },
+  "homepage": "https://github.com/kahefdev/cyphers#readme",
+  "dependencies": {
+    "bcrypt": "^4.0.1"
+  }
+}
